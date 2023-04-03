@@ -1,3 +1,4 @@
+#função para checar se um número pertence a sequência fibonacci
 def check_fibonacci(numero):
     a, b = 0, 1
     while b < numero:
